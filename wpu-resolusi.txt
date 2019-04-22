@@ -1,4 +1,5 @@
 WPU resolusi
-- konsisten untuk belajar pemrograman 1 minggu minimal 5x
-- membuat projek sederhana
-- menguasai satu bahasa pemrograman
+- Konsisten untuk belajar pemrograman 1 minggu minimal 5x
+- Membuat projek sederhana
+- Menguasai satu bahasa pemrograman
+- Belajar teknologi baru
